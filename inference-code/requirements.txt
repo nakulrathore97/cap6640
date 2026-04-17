@@ -1,0 +1,6 @@
+torch
+diffusers
+transformers
+tqdm
+Pillow
+accelerate
